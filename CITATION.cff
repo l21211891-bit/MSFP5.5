@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: '5.5. Práctica: Sistema endócrino'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Africa Montserrat
+    family-names: Rodriguez Garcia
+    email: l21211891@tectijuana.edu.mx
+    affiliation: TecNM/ITT
+repository-code: 'https://github.com/l21211891-bit/MSFP5.5'
+keywords:
+  - Sistema endócrino
+  - Circuito RLC
+  - Modelo matemático
+  - Función de transferencia
+license: BSD-2-Clause
+date-released: '2026-11-18'
